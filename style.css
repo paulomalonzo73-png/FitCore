@@ -292,7 +292,6 @@ body {
   opacity:1;
   transform:translateY(0);
 }
-
 /* RESPONSIVE */
 @media(max-width:900px) {
   .nav-links { display:none; }
